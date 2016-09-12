@@ -1,4 +1,6 @@
 # en2class
+
+[![Join the chat at https://gitter.im/itam-en2class/Lobby](https://badges.gitter.im/itam-en2class/Lobby.svg)](https://gitter.im/itam-en2class/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Teaching material for Estrategia II at ITAM
 
 this is a simple example of
